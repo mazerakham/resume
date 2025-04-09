@@ -11,26 +11,8 @@
   </long-term-memory>
 
   <current-task>
-    I renamed our version of the resume to
-
-    resumes/tech_2025-04-09
-
-    Make a sibling directory
-
-    resumes/tech_education_2025-04-09
-
-    which will be best suited for me to get a role at a 
-    new academic institution that is looking to grow its
-    mathematics and computer science programs and is looking
-    for a head of department.  
-
-    I need to emphasize my teaching experience, and talk
-    significantly less about my tech experience, while 
-    still mentioning it.
-
-    Do NOT make stuff up.  If something is too bare/sparse,
-    ask me for details, which I can provide in the form
-    of docs. 
+    Try compiling and/or rendering main.tex (I moved it to the 
+    root directory) and troubleshoot any issues that arise.
   </current-task>
   
 </task-context>

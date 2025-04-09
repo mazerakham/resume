@@ -1,0 +1,79 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=latex 2025.3.8)  9 APR 2025 16:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**curve.ins
+(./curve.ins
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/docstrip.tex
+\blockLevel=\count196
+\emptyLines=\count197
+\processedLines=\count198
+\commentsRemoved=\count199
+\commentsPassed=\count266
+\codeLinesPassed=\count267
+\TotalprocessedLines=\count268
+\TotalcommentsRemoved=\count269
+\TotalcommentsPassed=\count270
+\TotalcodeLinesPassed=\count271
+\NumberOfFiles=\count272
+\inFile=\read2
+\inputcheck=\read3
+\off@0=\count273
+\off@1=\count274
+\off@2=\count275
+\off@3=\count276
+\off@4=\count277
+\off@5=\count278
+\off@6=\count279
+\off@7=\count280
+\off@8=\count281
+\off@9=\count282
+\off@10=\count283
+\off@11=\count284
+\off@12=\count285
+\off@13=\count286
+\off@14=\count287
+\off@15=\count288
+\@maxfiles=\count289
+\@maxoutfiles=\count290
+
+Utility: `docstrip' v2.6b <2022-09-03>
+English documentation    <2024-02-08>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+)
+
+Generating file(s) ./header.inc ./curve.cls 
+\openout0 = `./header.inc'.
+
+\openout1 = `./curve.cls'.
+
+
+Processing file curve.dtx (header) -> header.inc
+                          (header,curve) -> curve.cls
+Lines  processed: 2333
+Comments removed: 1494
+Comments  passed: 15
+Codelines passed: 817
+
+ ) 
+Here is how much of TeX's memory you used:
+ 339 strings out of 474663
+ 3597 string characters out of 5751136
+ 390819 words of memory out of 5000000
+ 23471 multiletter control sequences out of 15000+600000
+ 558837 words of font info for 36 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 15i,0n,25p,179b,124s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.
