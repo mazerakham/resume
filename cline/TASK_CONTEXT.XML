@@ -1,0 +1,19 @@
+<task-context>
+
+  <long-term-memory>
+
+    <overall-task>
+      `./actual` is a copy of `./example`. We are going to
+      transform it into my actual resume (it is currently a template).
+
+      ./docs contains a useful document with information about me.
+      Feel free to ask me clarifying questions if it will improve
+      the resume.
+    </overall-task>
+
+  </long-term-memory>
+  <current-task>
+
+
+  </current-task>
+</task-context>

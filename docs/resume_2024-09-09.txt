@@ -1,0 +1,29 @@
+Jake Mirra
+Mathematician, educator, and tech startup founding engineer
+7708 San Felipe Blvd, Unit 12
+Austin, TX 78729
+(412) 944-7767
+jmirra1515@gmail.com
+
+EXPERIENCE
+Ender, Austin— Senior Software Engineer
+March 2022 - September 2024
+Scaled the platform: Expanded the platform from mom-and-pop pilots to institutional investors running large-scale operations with tens of thousands of units all on our platform. 
+Ensured reliability: Maintained 100% uptime of our services using engineering excellence policies I advocated for and implemented (no unplanned outages in two years).  Added platform health monitoring, invariant enforcement, and anomaly detection using tools like SNS/SQS and OpsGenie.  .  
+Feature development: Added critical features (for example, automatic bank reconciliation by integrating Plaid with our own accounting data along with a full suite of UI tools for manual reconciliation) enabling larger groups to scale their businesses on our platform.  
+Team leadership: Mentored and grew the development team, fostering a collaborative environment.  Interfaced with Ender's sales and onboarding teams  to set and meet long-term goals for feature delivery.  
+Cross-functional collaboration: Worked closely with product and business teams to align technical strategies with business goals.
+Ender, Austin — Software Engineer
+July 2019 - March 2022
+Founding engineer at Ender, disrupting property management software industry.  
+Developed a product integrating leasing, reporting, payment processing, accounts payable & vendor management, property acquisition, tenant, vendor & investor portals, flexible team and permissions management for specialized teams
+Contributed to initial architecture and core system components, the foundation on top of which we built the hundreds of features that comprise the business of property management.  
+EDUCATION
+University of Pittsburgh, Main —  PhD in Mathematics
+September 2012- June 2018
+Two publications developing tools in geometric analysis, culminating in thesis,  "Hölder Continuous Mappings into Sub-Riemannian Manifolds (2018)".  6 semesters as a TA, 4 as lecturer.  3,000 hours of tutoring.  
+University of Pittsburgh, Main — BS in Mathematics
+September 2011- September 2012
+Minor in computer science.  
+
+
