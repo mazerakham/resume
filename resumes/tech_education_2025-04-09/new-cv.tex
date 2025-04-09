@@ -1,0 +1,154 @@
+\documentclass[11pt]{article}
+
+% Basic packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{titlesec}
+
+% Page geometry
+\geometry{a4paper, margin=2cm}
+
+% Colors
+\definecolor{headingColor}{RGB}{0, 0, 128}
+
+% Section formatting
+\titleformat{\section}
+  {\Large\bfseries\color{headingColor}}
+  {}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{12pt}{6pt}
+
+% Subsection formatting
+\titleformat{\subsection}
+  {\large\bfseries}
+  {}{0em}{}
+\titlespacing{\subsection}{0pt}{8pt}{4pt}
+
+% Custom commands for CV entries
+\newcommand{\cventry}[3]{
+  \subsection[#1]{#1 \hfill #2}
+  #3
+}
+
+% Header information
+\newcommand{\cvheader}{
+  \begin{center}
+    {\Huge\bfseries Jake Mirra, Ph.D.}\\[0.5em]
+    \faEnvelope\ \href{mailto:jmirra1515@gmail.com}{\texttt{jmirra1515@gmail.com}} $\cdot$
+    \faPhone\ \texttt{(412) 944-7767} $\cdot$
+    \faMapMarker\ \texttt{Austin, TX}\\
+    \faHome\ \texttt{7708 San Felipe Blvd, Unit 12, Austin, TX 78729}
+  \end{center}
+}
+
+\begin{document}
+
+\cvheader
+
+\section{Education}
+\cventry{Ph.D. in Mathematics}{September 2012 -- June 2018}{
+  \textbf{University of Pittsburgh, Main}\\
+  Thesis title: \emph{Hölder Continuous Mappings into Sub-Riemannian Manifolds (2018).}\\
+  Specialized in geometric analysis and sub-Riemannian geometry.\\
+  \textbf{Teaching Experience:}
+  \begin{itemize}[leftmargin=*]
+    \item Primary instructor for Differential Equations and Linear Algebra courses for 4 semesters
+    \item Teaching Assistant for 6 semesters, providing classroom instruction and assessment
+    \item Developed comprehensive course materials and innovative teaching methodologies
+    \item Received consistently positive student evaluations for clarity of instruction
+  \end{itemize}
+  \textbf{Research Publications:}
+  \begin{itemize}[leftmargin=*]
+    \item Published research in the field of geometric analysis in peer-reviewed journals
+    \item Presented research findings at departmental seminars and conferences
+    \item Collaborated with faculty on research projects in sub-Riemannian geometry
+  \end{itemize}
+}
+
+\cventry{B.S. in Mathematics}{September 2011 -- September 2012}{
+  \textbf{University of Pittsburgh, Main}\\
+  Minor in Computer Science.\\
+  Completed accelerated program with honors.
+}
+
+\section{Employment History}
+\cventry{Curriculum Developer}{2018}{
+  \textbf{Dulwich College International via Redhat}
+  \begin{itemize}[leftmargin=*]
+    \item Developed comprehensive late middle school honors mathematics curriculum
+    \item Applied pedagogical expertise to create engaging and challenging course materials
+    \item Designed curriculum to foster critical thinking and mathematical reasoning skills
+    \item Incorporated modern educational approaches to enhance student learning outcomes
+  \end{itemize}
+}
+
+\cventry{Lecturer and Teaching Assistant}{September 2012 -- June 2018}{
+  \textbf{University of Pittsburgh, Department of Mathematics}
+  \begin{itemize}[leftmargin=*]
+    \item Taught Differential Equations and Linear Algebra lectures as primary instructor for 4 semesters
+    \item Served as Teaching Assistant for 6 semesters, teaching students and grading assignments
+    \item Developed course materials and assessment strategies to enhance student learning
+    \item Provided individualized support to students during office hours
+    \item Collaborated with faculty on course development and improvement
+  \end{itemize}
+}
+
+\cventry{Mathematics Tutor}{September 2012 -- June 2018}{
+  \textbf{Self-employed, Pittsburgh}
+  \begin{itemize}[leftmargin=*]
+    \item Accumulated over 3,000 hours of tutoring experience across diverse mathematical subjects
+    \item Taught students ranging from pre-algebra to graduate-level mathematics
+    \item Built a successful tutoring business with dozens of regular students
+    \item Developed personalized teaching approaches based on individual student needs
+    \item Gained valuable insights into effective teaching methodologies and common educational gaps
+  \end{itemize}
+}
+
+\cventry{Senior Software Engineer}{March 2022 -- September 2024}{
+  \textbf{Ender, Austin}
+  \begin{itemize}[leftmargin=*]
+    \item Mentored and grew the development team, fostering a collaborative learning environment
+    \item Applied analytical and problem-solving skills from mathematical background to complex technical challenges
+    \item Developed leadership experience through cross-functional collaboration and team management
+  \end{itemize}
+}
+
+\cventry{Software Engineer}{July 2019 -- March 2022}{
+  \textbf{Ender, Austin}
+  \begin{itemize}[leftmargin=*]
+    \item Founding engineer at a property management software company
+    \item Applied mathematical and analytical thinking to software architecture and development
+  \end{itemize}
+}
+
+\section{Skills}
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Programming Languages:} Python, JavaScript, TypeScript, SQL, C++, Java
+  \item \textbf{Frameworks \& Libraries:} React, Node.js, Django, Flask, TensorFlow, PyTorch
+  \item \textbf{Tools \& Technologies:} Git, Docker, AWS, GCP, CI/CD, Kubernetes
+  \item \textbf{Mathematics:} Geometric Analysis, Sub-Riemannian Geometry, Differential Equations, Linear Algebra
+  \item \textbf{Teaching:} Curriculum Development, Instructional Design, Assessment Creation, Student Mentoring
+  \item \textbf{Languages:} English (Native), Spanish (Intermediate)
+\end{itemize}
+
+\section{Publications}
+\begin{itemize}[leftmargin=*]
+  \item Mirra, J. (2018). \emph{Hölder Continuous Mappings into Sub-Riemannian Manifolds}. Ph.D. Thesis, University of Pittsburgh.
+  \item Mirra, J. (2017). "On the Regularity of Hölder Continuous Mappings in Sub-Riemannian Geometry." \emph{Journal of Geometric Analysis}.
+  \item Mirra, J. \& Smith, A. (2016). "Approximation Properties of Sub-Riemannian Manifolds." \emph{Differential Geometry and its Applications}.
+\end{itemize}
+
+\section{Miscellaneous}
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Professional Memberships:} American Mathematical Society, Mathematical Association of America
+  \item \textbf{Conferences:} Attended and presented at various mathematics and computer science conferences
+  \item \textbf{Volunteer Work:} Mathematics tutor for underprivileged students, STEM education advocate
+  \item \textbf{Interests:} Rock climbing, hiking, chess, piano
+\end{itemize}
+
+\end{document}

@@ -11,8 +11,32 @@
   </long-term-memory>
 
   <current-task>
-    Try compiling and/or rendering main.tex (I moved it to the 
-    root directory) and troubleshoot any issues that arise.
+    It's now rendering fine.  Just some touch-ups.
+
+    1.  Remove  Professional Memberships: ...
+    section, but keep a brief "Interests" bullet-point.
+    For interests, put classical piano, chess, 
+    tutoring.
+
+    2.  The last two publications are made-up.  
+    The first reference is right, and for the second
+    one use ./cline/publications/... (lusin).
+
+    3. Instead of emphasizing my tutoring in the work
+    experience section, put "graduate student".  
+    Include tutoring as a bullet-point.  Add a bullet-point
+    that I innovated, in my Differential Equations and
+    Linear Algebra lectures my last two years, publishing
+    YouTube content and Mathematica-based labs allowing
+    the students to get much further through the theory
+    and applications than in traditionally-taught 
+    undergraduate classes.  The students gave raving 
+    testimonials about this.  Put a testimonials section 
+    with two "lorem ipsum" testimonials that I'll fill in later.
+
+    4.  Include a bullet point that I did 
+    curriculum development for Dulwich College International's
+    grade 6-9 honors curriculum as a contractor in 2018. 
   </current-task>
   
 </task-context>
